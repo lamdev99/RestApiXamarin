@@ -1,0 +1,17 @@
+D:\VSFolder\RestApi\RestApi\RestApi\bin\Debug\netstandard2.0\RestApi.deps.json
+D:\VSFolder\RestApi\RestApi\RestApi\bin\Debug\netstandard2.0\RestApi.dll
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\RestApi.csprojAssemblyReference.cache
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\RestApi.AssemblyInfoInputs.cache
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\RestApi.AssemblyInfo.cs
+D:\VSFolder\RestApi\RestApi\RestApi\bin\Debug\netstandard2.0\ref\RestApi.dll
+D:\VSFolder\RestApi\RestApi\RestApi\bin\Debug\netstandard2.0\RestApi.pdb
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\RestApi.dll
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\ref\RestApi.dll
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\RestApi.pdb
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\View\CarsPage.xaml.g.cs
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\View\FruitContentPage.xaml.g.cs
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\View\DetailPage.xaml.g.cs
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VSFolder\RestApi\RestApi\RestApi\obj\Debug\netstandard2.0\View\DetailCar.xaml.g.cs

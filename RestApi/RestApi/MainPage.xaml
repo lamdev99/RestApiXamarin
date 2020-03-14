@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:RestApi.ViewModels"
+             x:Class="RestApi.MainPage">
+   
+    <StackLayout>
+        <!-- Place new controls here -->
+        <ListView x:Name="ListView"
+                  ItemsSource="{Binding Items}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="{Binding userId}"/>
+                        <Label Text="{Binding id}"/>
+                        <Label Text="{Binding title}"/>
+                        <Label Text="{Binding body}"/>
+                    </StackLayout>
+                    
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+       
+    </StackLayout>
+
+</ContentPage>
